@@ -1,6 +1,6 @@
 #!/bin/bash
-# https://github.com/VritraSecz
-# Code By: VritraSecz
+# https://github.com/Afod2000
+# Code By: Carderbro
 # Don't be copycat create your own
 
 # Printing banner
@@ -20,7 +20,7 @@ if [ -f "/data/data/com.termux/files/usr/bin/termux-info" ]; then
     pip install openai==0.28
     echo
     echo -e "\033[1;91m[+]\033[1;92m Installation is completed"
-    echo -e "\033[1;91m[+]\033[1;92m Type \033[1;91mgptx\033[1;92m command to launch GPTX"
+    echo -e "\033[1;91m[+]\033[1;92m Type \033[1;91migpt\033[1;92m command to launch IGpt"
     echo
 
 else
