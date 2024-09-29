@@ -38,7 +38,7 @@ Gpt but better
 
 + `python igpt.py`
 
-+ By this command GPTX will launch in your terminal. And now you are ready to ask any question to GPTX. Ask your question and get your answer.
++ By this command IGpt will launch in your terminal. And now you are ready to ask any question to IGpt. Ask your question and get your answer.
 
 ## Note
 + To exit from tool just type `exit` or `bye` and hit ENTER. You will get exit from prompt.
