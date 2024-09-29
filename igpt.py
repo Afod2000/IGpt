@@ -1,6 +1,6 @@
 #!/bin/python3
-# https://github.com/VritraSecz
-# Code By: VritraSecz
+# https://github.com/Afod2000
+# Code By: Carderbro
 # Don't be copycat create your own
 
 import openai
@@ -10,7 +10,7 @@ from key import *
 
 def exift():
     print()
-    print("\033[1;91m[+]\033[1;92m Thanks for using \033[1;91mGPTX")
+    print("\033[1;91m[+]\033[1;92m Thanks for using \033[1;91mIGpt")
     sleep(0.14)
     print("\033[1;91m[~]\033[1;92m Don't Forget to follow us on socialmedia")
     sleep(0.14)
